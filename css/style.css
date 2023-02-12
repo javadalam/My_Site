@@ -1,0 +1,28 @@
+
+
+a{
+    text-decoration: none;
+   cursor: context-menu;
+}
+
+
+a:hover , a:focus {
+    color: skyblue;
+}
+
+a:active {
+    color: yellow;
+}
+
+ ul , li {
+   display:inline;
+   
+   
+
+ }
+ .menu {
+    border: solid 0.1rem green;
+    background-color: skyblue;
+    font-family: monospace;
+    font-size: 20px;
+ }
